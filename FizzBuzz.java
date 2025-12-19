@@ -1,5 +1,5 @@
 package com.mycompany.primerosejercicios;
-public class PrimerosEjercicios {
+public class FizzBuzz {
 public static void main(String[] args) {
            /*
          * Escribe un programa que muestre por consola (con un print) los
