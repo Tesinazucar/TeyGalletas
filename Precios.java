@@ -1,5 +1,4 @@
-package com.mycompany.primerosejercicios;
-public class Ejercicio2 {
+public class Precios {
     public static void main (String[] args) {
         int items = 50;
         float costPerItem = 9.99f;
@@ -16,4 +15,5 @@ public class Ejercicio2 {
         
     }
 }
+
 
