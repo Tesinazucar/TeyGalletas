@@ -1,5 +1,4 @@
-package com.mycompany.primerosejercicios;
-public class Ejercicio3 {
+public class PorcentajeJugador {
     public static void main(String[] args) {
     /* 
     Calcular el porcentaje del nivel de un jugador respecto al nivel maximo
@@ -12,3 +11,4 @@ public class Ejercicio3 {
     System.out.println("El porcentaje del jugador es: " + porcentaje);
     }
 }
+
